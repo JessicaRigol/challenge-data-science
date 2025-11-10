@@ -15,16 +15,16 @@ Desafio prático para aplicar os conceitos iniciais de Análise de Dados com Pyt
 
 ## ╰⪼ Tecnologias Utilizadas
 
-- 🐍 **Python**
-- 📊 **Pandas** – manipulação de dados  
-- 📈 **Matplotlib** – visualização de dados  
-- 💻 **Google Colab** – ambiente de execução
+- **Python**
+- **Pandas** – manipulação de dados  
+- **Matplotlib** – visualização de dados  
+- **Google Colab** – ambiente de execução
 
 
 ## ╰⪼ Gráficos Gerados
 
-1. 💰 **Faturamento total por loja** (barras verticais)  
-2. 🚚 **Frete médio por loja** (gráfico de linha)  
-3. 🛒 **Distribuição das categorias de produtos** (barras agrupadas)  
-4. 🏆 **Produtos mais vendidos** (pizza por loja)  
-5. ⭐ **Avaliações dos clientes** (barras horizontais)
+1. **Faturamento total por loja** (barras verticais)  
+2. **Frete médio por loja** (gráfico de linha)  
+3. **Distribuição das categorias de produtos** (barras agrupadas)  
+4. **Produtos mais vendidos** (pizza por loja)  
+5. **Avaliações dos clientes** (barras horizontais)
