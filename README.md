@@ -15,7 +15,7 @@ Desafio prático para aplicar os conceitos iniciais de Análise de Dados com Pyt
 
 ## ╰⪼ Tecnologias Utilizadas
 
-- 🐍 **Python 3**
+- 🐍 **Python**
 - 📊 **Pandas** – manipulação de dados  
 - 📈 **Matplotlib** – visualização de dados  
 - 💻 **Google Colab** – ambiente de execução
